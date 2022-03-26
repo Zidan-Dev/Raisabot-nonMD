@@ -1,7 +1,7 @@
-# BugBot
+# RaisaBot
 Sc buatan zextz ane beli langsung dari dia seharga 30
 
-p align="center">
+
     <a href="https://rexha-kenzz.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+raisa+bot+🤗"
