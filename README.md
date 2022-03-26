@@ -1,13 +1,15 @@
 # RaisaBot
 Sc buatan zextz ane beli langsung dari dia seharga 30
 
-
-    <a href="https://rexha-kenzz.github.io">
+<p align="center">
+    <a href="https://zeeoneofc.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+raisa+bot+🤗"
-            alt="rexha-kenzz"
+            alt="Zeeone-ofc"
         />
     </a>
+</p>
+
 </p>
 npm i
 npm start
