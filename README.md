@@ -1,5 +1,5 @@
 # RaisaBot
-Sc buatan zextz ane beli langsung dari dia seharga 30
+Gunakan dengan bijak! saya tidak bertanggung jawab atas masalah yang anda perbuat. Terimakasih telah mampir ke repo ini semoga bermanfaat buat kalian ya! Jangan lupa star dan follow nya ya kak.....
 
 <p align="center">
     <a href="https://Rexha-Kenzz.github.io">
