@@ -11,6 +11,9 @@ Gunakan dengan bijak! saya tidak bertanggung jawab atas masalah yang anda perbua
 </p>
 
 </p>
+
+Kalo error Pake yg ini aja boskuhh https://drive.google.com/file/d/1sWC-uRrJZwV7uxCXQWRcrevBtQ-5ingm/view?usp=sharing
+
 npm i
 npm start
 
