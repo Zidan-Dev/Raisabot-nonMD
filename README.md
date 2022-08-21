@@ -14,14 +14,11 @@ ini Sc Full Bug.
 
 Kalo error Pake yg ini aja boskuhh https://drive.google.com/file/d/1sWC-uRrJZwV7uxCXQWRcrevBtQ-5ingm/view?usp=sharing
 
-npm i
-npm start
+npm i && npm start
 
 atau
 
-npm i
-npm i -g pm2
-pm2 start run.js
+npm i && npm i -g pm2 && pm2 start run.js
 
 Nih module nya:
 https://file.lu/d/Pcc
