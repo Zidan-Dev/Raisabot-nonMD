@@ -22,6 +22,3 @@ npm i && npm i -g pm2 && pm2 start run.js
 
 Nih module nya:
 https://file.lu/d/Pcc
-
-
-Follow Njinggg 
